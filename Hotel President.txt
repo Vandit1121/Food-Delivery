@@ -1,0 +1,15 @@
+Veg Manchurian Gravy,165
+Paneer Chili Gravy,190
+Tomato Soup,105
+Sweet Corn Soup,105
+Baked Macroni with Pineapple,210
+Paneer Tikka Masala,210
+Paneer Kadai,210
+Paneer Toofani,210
+Plain Roti,30
+Butter Roti,35
+Butter Naan,55
+Cheese Naan,90
+Black Forest Milk Shake,135
+Coke(250 ml),30
+Cold Coffee,100

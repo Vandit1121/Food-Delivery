@@ -1,0 +1,15 @@
+Cheesy,109
+Capsicum,85
+Golden Corn,89
+Paneer & Onion,109
+Garlic Breadsticks,99
+Veg Parcel,45
+Cheesy Dip,28
+Double Cheese Margherita,219
+Peppy Paneer,419
+Deluxe Veggie,499
+Indi Tandoori Paneer,499
+Paneer Makhani,499
+Kadhai Paneer,499
+The Cheese Dominator,599
+The 4 Cheese Pizza,599

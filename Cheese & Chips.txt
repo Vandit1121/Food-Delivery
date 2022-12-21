@@ -1,0 +1,15 @@
+Cheese Aloo Tikki Burger,72
+Dabeli Burger,72
+Veg Cheese Burger,80
+Toofani Cheese Burger,80
+BBQ Cheese Burger,80
+Paneer Crispy Burger,110
+Paneer Masala Grilled Sandwich,120
+Pizza Grilled Sandwich,120
+Paneer Tikka Masala Grilled Sandwich,120
+Cheese and Pineapple Macroni Penne Pasta,130
+Red Sauce Penne Pasta,100
+Cheesy Garlic Penne Pasta,110
+Margarita Pizza,140
+Mexicana Pizza,160
+American Golden Pizza,160
